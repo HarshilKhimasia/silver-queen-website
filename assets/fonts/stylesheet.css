@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Abariya';
+    src: url('AbariyaRegular.woff2') format('woff2'),
+        url('AbariyaRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
